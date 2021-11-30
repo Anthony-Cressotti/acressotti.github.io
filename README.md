@@ -63,16 +63,19 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <!-- Grid for photos -->
     <div class="w3-row-padding" style="margin:0 -16px">
       <div class="w3-half">
-        <img src="/w3images/wedding.jpg" style="width:100%">
-        <img src="/w3images/rocks.jpg" style="width:100%">
+        <img src="/w3images/.jpg" style="width:100%">
+        <img src="/w3images/jpg" style="width:100%">
         <img src="/w3images/sailboat.jpg" style="width:100%">
       </div>
 
       <div class="w3-half">
-        <img src="/w3images/underwater.jpg" style="width:100%">
-        <img src="/w3images/chef.jpg" style="width:100%">
-        <img src="/w3images/wedding.jpg" style="width:100%">
-        <img src="/w3images/p6.jpg" style="width:100%">
+        <img src="/w3images/[20211009_170850 (1)](https://user-images.githubusercontent.com/94719910/144132114-9ae3646a-2593-43b6-af23-d41a5090e3e8.jpg)
+jpg" style="width:100%">
+        <img src="/w3images/![20211009_170752 (1)](https://user-images.githubusercontent.com/94719910/144132159-0bebd8c4-a364-4c7f-8662-79740d37bc9c.jpg)
+.jpg" style="width:100%">
+        <img src="/w3images/![20211009_170911 (1)](https://user-images.githubusercontent.com/94719910/144132186-939fd323-f3dd-4411-9553-ef03d1ce586e.jpg)
+.jpg" style="width:100%">
+       
       </div>
     <!-- End photo grid -->
     </div>
