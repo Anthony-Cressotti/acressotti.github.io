@@ -48,7 +48,10 @@ jpg" style="width:100%">
 .jpg" style="width:100%">
         <img src="/[20211009_170911 (1)](https://user-images.githubusercontent.com/94719910/144132186-939fd323-f3dd-4411-9553-ef03d1ce586e.jpg)
 .jpg" style="width:100%">
-       
+      Some of my work: https://www.youtube.com/watch?v=Oha5S-Ofi8Q&list=PLOHePRwP3ezRIDGMyt_a2WQmoL0H4KDN4&index=1 
+        https://www.youtube.com/watch?v=5dJq8fTgcxU&list=PLOHePRwP3ezRIDGMyt_a2WQmoL0H4KDN4&index=2
+        https://www.youtube.com/watch?v=tsyQHHrt7KY&list=PLOHePRwP3ezRIDGMyt_a2WQmoL0H4KDN4&index=3
+        https://www.youtube.com/watch?v=dN15PVUg9l8&list=PLOHePRwP3ezRIDGMyt_a2WQmoL0H4KDN4&index=4
       </div>
     <!-- End photo grid -->
     </div>
